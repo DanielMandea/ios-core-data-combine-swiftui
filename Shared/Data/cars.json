@@ -1,0 +1,20 @@
+[
+  {
+    "id": "A",
+    "name": "BMW",
+    "owner": {
+      "id": "B",
+      "name": "Adrian",
+      "age": 32
+    }
+  },
+  {
+    "id": "B",
+    "name": "Tesla",
+    "owner": {
+      "id": "B",
+      "name": "Daniel",
+      "age": 30
+    }
+  }
+]
